@@ -28,10 +28,16 @@ The project is structured into three layers:
 
 ## 🛠️ Tools & Technologies
 
-- **SQL Server Express** – Data warehouse implementation  
-- **SQL Server Management Studio (SSMS)** – Database management  
-- **DrawIO** – Data architecture & ER diagrams  
-- **GitHub** – Version control & project hosting  
+| Layer/Function       | Tool/Tech                                  |
+| -------------------- | ------------------------------------------ |
+| Data Storage         | SQL Server, CSV                            |
+| ETL / Transformation | SQL Scripts, Draw\.io                      |
+| Data Modeling        | Star Schema, Draw\.io                      |
+| Analytics / BI       | SQL Queries, Tableau / Power BI (optional) |
+| Documentation        | Markdown, Draw\.io                         |
+| Version Control      | Git, GitHub                                |
+| Testing              | SQL Test Scripts                           |
+
 
 
 
