@@ -1,4 +1,4 @@
-# 📊 Analytics Warehouse – By Neha Pal
+# 📊 Analytics Warehouse 
 
 This project demonstrates how to design and build a **modern data warehouse** using SQL Server.  
 It follows the **Medallion Architecture** (Bronze → Silver → Gold) to transform raw ERP and CRM data into **business-ready insights**.
@@ -37,6 +37,7 @@ The project is structured into three layers:
 | Documentation        | Markdown, Draw\.io                         |
 | Version Control      | Git, GitHub                                |
 | Testing              | SQL Test Scripts                           |
+
 
 
 
