@@ -9,7 +9,7 @@ It follows the **Medallion Architecture** (Bronze → Silver → Gold) to transf
 
 The project is structured into three layers:
 
-![Data Architecture](docs/data_architecture.png)
+<img width="1344" height="768" alt="Data_Architecture" src="https://github.com/user-attachments/assets/0639a874-2d46-48b0-b643-115424d5f3cc" />
 
 1. **Bronze Layer** → Raw data ingested from ERP & CRM CSV files.  
 2. **Silver Layer** → Data cleansing, transformation, and standardization.  
@@ -37,6 +37,7 @@ The project is structured into three layers:
 | Documentation        | Markdown, Draw\.io                         |
 | Version Control      | Git, GitHub                                |
 | Testing              | SQL Test Scripts                           |
+
 
 
 
