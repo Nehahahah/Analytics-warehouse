@@ -33,10 +33,11 @@ The project is structured into three layers:
 | Data Storage         | SQL Server, CSV                            |
 | ETL / Transformation | SQL Scripts, Draw\.io                      |
 | Data Modeling        | Star Schema, Draw\.io                      |
-| Analytics / BI       | SQL Queries, Tableau / Power BI            |
+| Analytics / BI       | SQL Queries, Power BI                      |
 | Documentation        | Markdown, Draw\.io                         |
 | Version Control      | Git, GitHub                                |
 | Testing              | SQL Test Scripts                           |
+
 
 
 
